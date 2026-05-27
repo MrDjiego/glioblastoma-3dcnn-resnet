@@ -216,3 +216,9 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Custom Machine Learning Artifacts
+data/
+models/
+*.npy
+*.h5
